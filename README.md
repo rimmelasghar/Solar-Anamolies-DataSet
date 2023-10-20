@@ -24,3 +24,11 @@ The dataset consists of 20,000 infrared images that are 24 by 40 pixels each. Th
 ## Our goal 🎯
 
 Goal is clear and simple. We need to build a model, which can classify between Different Classes of Solar Anomalies.
+
+# Troubleshooting
+If you are facing any problems, feel free to open an issue or contact me on `rimmelasghar4@gmail.com` 
+
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-purple.svg)](https://opensource.org/licenses/MIT)
+<br>
+Code by Rimmel with ❤
